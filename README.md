@@ -235,15 +235,24 @@ churn-analysis/
     ├── churn_rate_by_plan.png
     └── monthly_churn_trend.png
 ```
+# ⭐ Support
+
+If you found this project useful,
+
+⭐ Star this repository
+
+and feel free to share your feedback.
 
 ---
 
-## 👤 Analyst Takeaway
+# 👨‍💻 Author
 
-The strongest signal in this dataset is that **churn is concentrated in specific customer segments rather than being evenly distributed**. The Basic plan and referral acquisition channel stand out, while escalated support interactions show a strong positive association with churn.
+**Surajit Singh**
 
-The next analytical step should be to validate these patterns on a larger dataset and build a customer-level churn-risk segmentation that combines **churn score, plan, contract, support activity, tenure and customer value**.
+Python Developer | Data Analyst
+
+
+GitHub: https://github.com/surajitaiml711-cloud
 
 ---
-
-*Prepared from the supplied `Churn_Analysis` notebook and its reported outputs.*
+---
